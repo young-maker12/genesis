@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "genesis-title";
+  src: url("../../fonts/GenesisSansTextKROTFBold00.eot");
+  src: url("../../fonts/GenesisSansTextKROTFBold00.eot?#iefix") format("embeded-opentype"), url("../../fonts/GenesisSansTextKROTFBold00.woff2") format("woff2"), url("../../fonts/GenesisSansTextKROTFBold00.woff") format("woff"), url("../../fonts/GenesisSansTextKROTFBold00.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+/*g-text, g-subtext*/
+@font-face {
+  font-family: "genesis-text";
+  src: url("../../fonts/GenesisSansTextKROTFMedium00.eot");
+  src: url("../../fonts/GenesisSansTextKROTFMedium00.eot?#iefix") format("embeded-opentype"), url("../../fonts/GenesisSansTextKROTFMedium00.woff2") format("woff2"), url("../../fonts/GenesisSansTextKROTFMedium00.woff") format("woff"), url("../../fonts/GenesisSansTextKROTFMedium00.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "genesis-subtext";
+  src: url("../../fonts/GenesisSansTextKROTFRegular00.eot");
+  src: url("../../fonts/GenesisSansTextKROTFRegular00.eot?#iefix") format("embeded-opentype"), url("../../fonts/GenesisSansTextKROTFRegular00.woff2") format("woff2"), url("../../fonts/GenesisSansTextKROTFRegular00.woff") format("woff"), url("../../fonts/GenesisSansTextKROTFRegular00.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
